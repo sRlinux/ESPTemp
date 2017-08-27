@@ -19,8 +19,11 @@ DYI wireless LAN thermometer especially for monitoring application
 
 ## The Setup:
 ![esptemp](/img/esp_temp.png)
+![esptemp_flash](/img/IMG_20170827_222005.jpg)
 
 ### Flashing Firmware
-![esptemp](/img/esp_temp_prog.png)
+![esptemp_flash](/img/esp_temp_prog.png)
+![esptemp_flash](/img/IMG_20170827_221908.jpg)
+
 ### Flashing C binary
 ### Run software
