@@ -18,6 +18,8 @@ DYI wireless LAN thermometer especially for monitoring application
 * AT firmware for ESP8266
 
 ## The Setup:
+![esptemp](/images/esp_temp.png)
+
 ### Flashing Firmware
 ### Flashing C binary
 ### Run software
