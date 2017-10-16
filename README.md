@@ -1,5 +1,5 @@
 # ESPTemp
-DYI wireless LAN thermometer especially for monitoring application
+DYI wireless LAN thermometer for homeautomation
 
 ## What you need:
 ### Hardware
@@ -9,12 +9,11 @@ DYI wireless LAN thermometer especially for monitoring application
 * A piece of stripboard
 * Soldering iron
 * Some solder
-* optional: (an UART USB Adapter @3,3V, ON/OFF switch)
+* optional: an UART USB Adapter @3,3V, ON/OFF switch
 
 ### Software
 * Arduino IDE
 * esptool
-* netcat (nc)
 * AT firmware for ESP8266
 * MQTT Broker (mosquitto)
 
