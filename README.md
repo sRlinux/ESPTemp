@@ -16,6 +16,7 @@ DYI wireless LAN thermometer especially for monitoring application
 * esptool
 * netcat (nc)
 * AT firmware for ESP8266
+* MQTT Broker (mosquitto)
 
 ## The Setup:
 ![esptemp](/img/esp_temp.png)
