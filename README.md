@@ -1,5 +1,5 @@
 # ESPTemp
-DYI wireless LAN thermometer for homeautomation
+DIY wireless LAN thermometer for homeautomation
 
 ## What you need:
 ### Hardware
