@@ -25,5 +25,7 @@ DIY wireless LAN thermometer for homeautomation
 ![esptemp_flash](/img/esp_temp_prog.png)
 ![esptemp_flash](/img/IMG_20170827_221908.jpg)
 
+`./esptool.py --port=/dev/ttyUSB0 write_flash 0x00000 AI-v0.9.5.0 AT Firmware.bin` 
+
 ### Flashing C binary
 ### Run software
