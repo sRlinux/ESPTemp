@@ -35,6 +35,7 @@ void setup(void)
     client.connect("sensor0", mqtt_user, mqtt_password);
     client.publish(temp0, String(temps0).c_str() , true);
     client.publish(temp1, String(temps1).c_str() , true);
+    client.disconnect();
     ESP.deepSleep(600000000); // 10 minutes.
 }
 
